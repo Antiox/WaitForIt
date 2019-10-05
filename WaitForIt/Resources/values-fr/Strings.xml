@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="LogIn">Connexion</string>
+  <string name="Subscribe">Inscription</string>
+  <string name="RateMe">Notez-moi !</string>
+  <string name="LogOut">Déconnexion</string>
+  <string name="Username">Pseudo :</string>
+  <string name="Password">Mot de passe :</string>
+  <string name="ConfirmPassword">Confirmation mot de passe :</string>
+  <string name="Mail">e-Mail :</string>
+  <string name="By">De %1$s</string>
+  <string name="Released">Sortie %1$s</string>
+  <string name="EmptyOverview">Il n\'y a pas de description pour ce film pour l\'instant ...</string>
+  <string name="SomethingToWaitFor">Quelque chose à la fin ?</string>
+  <string name="Yep">Oui !</string>
+  <string name="Nop">Non ...</string>
+  <string name="SaidYes">%1$d ont dit \'Oui\'</string>
+  <string name="SaidNo">%1$d ont dit \'Non\'</string>
+  <string name="LoginRequired">Vous n\'êtes pas connecté !</string>
+  <string name="WrongCombination">Mauvaise combinaison pseudo/mot de passe.</string>
+  <string name="Welcome">Bienvenue %1$s !</string>
+  <string name="YouSaidSomething">Vous avez dit qu\'il y a quelque chose !</string>
+  <string name="YouSaidNothing">Vous avez dit qu\'il n\'y a rien !</string>
+  <string name="ReviewSent">Avis envoyé !</string>
+  <string name="When">A quel moment ?</string>
+  <string name="DuringCredits">Pendant le générique</string>
+  <string name="AfterCredits">Après le générique</string>
+  <string name="DuringAfterCredits">Pendant et après</string>
+  <string name="Confirm">Valider</string>
+  <string name="Disconnected">Vous avez été déconnecté.</string>
+  <string name="PasswordsDontMatch">Les mots de passe ne concordent pas !</string>
+  <string name="SubscriptionSuccessful">Inscription réussie, bienvenue %1$s !</string>
+  <string name="YesListItem">OUI : %1$d</string>
+  <string name="NoListItem">NON : %1$d</string>
+  <plurals name="ReviewsCount">
+    <item quantity="one">%d note</item>
+    <item quantity="other">%d notes</item>
+  </plurals>
+</resources>

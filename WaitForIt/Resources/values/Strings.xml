@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="LogIn">Log in</string>
+  <string name="Subscribe">Subscribe</string>
+  <string name="RateMe">Rate me !</string>
+  <string name="LogOut">Log out</string>
+  <string name="Username">Username :</string>
+  <string name="Password">Password :</string>
+  <string name="ConfirmPassword">Confirm password :</string>
+  <string name="Mail">e-Mail :</string>
+  <string name="By">By %1$s</string>
+  <string name="Released">Released %1$s</string>
+  <string name="EmptyOverview">There is no overview for this movie yet ...</string>
+  <string name="SomethingToWaitFor">Something to wait for ?</string>
+  <string name="Yep">Yep !</string>
+  <string name="Nop">Nop ...</string>
+  <string name="SaidYes">%1$d said \'Yes\'</string>
+  <string name="SaidNo">%1$d said \'No\'</string>
+  <string name="LoginRequired">You are not logged in !</string>
+  <string name="WrongCombination">Wrong password/username combination.</string>
+  <string name="Welcome">Welcome %1$s !</string>
+  <string name="YouSaidSomething">You said there was something !</string>
+  <string name="YouSaidNothing">You said there was nothing !</string>
+  <string name="ReviewSent">Review sent !</string>
+  <string name="When">When ?</string>
+  <string name="DuringCredits">During the credits</string>
+  <string name="AfterCredits">After the credits</string>
+  <string name="DuringAfterCredits">During and after</string>
+  <string name="Confirm">Confirm</string>
+  <string name="Disconnected">You have been disconnected.</string>
+  <string name="PasswordsDontMatch">Passwords don\'t match !</string>
+  <string name="SubscriptionSuccessful">Subscription completed, welcome %1$s !</string>
+  <string name="YesListItem">YES : %1$d</string>
+  <string name="NoListItem">NO : %1$d</string>
+  <plurals name="ReviewsCount">
+    <item quantity="one">%d review</item>
+    <item quantity="other">%d reviews</item>
+  </plurals>
+</resources>
